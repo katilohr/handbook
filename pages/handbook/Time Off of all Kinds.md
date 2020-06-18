@@ -38,7 +38,7 @@ Therefore celebration for specific holidays are welcome and we encourage you to 
 
 #### Plus ${env.company} chooses to honor 3 additional days that we consider worthy of Vacation time.
 
-* #### Founders Day - we hope you will join us for the Company celebration and show Guy, Lisa and Kati your gratitude for their synchronous union!
+* #### Karla's BotDay - Karla's official creation day is 6/6/16 so we celebrate this as any famous Icon's birthday is honored!  We hope you will join us for the Company celebration each year on or around this day!
 
 * #### Veterans Day - we aim to honor and respect veterans around the world who have fought for freedom 
 
